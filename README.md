@@ -1,7 +1,7 @@
 # python-bootcamp
 Challenges and assessments for [Udemy's Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/)
 
-I'll be adding to this as needed while I complete the bootcamp. Larger projects will have their own repositories, which I will link to below.
+I'll be adding to this as I complete the bootcamp. Larger projects will have their own repositories, which I will link to below.
 
 ## Assessment List
 The assessments are in the order they're presented in with the same filenames as in the course.
