@@ -8,7 +8,7 @@ The assessments are in the order they're presented in with the same filenames as
 
 - [x] 09-Objects and Data Structures Assessment Test.ipynb
 
-- [ ] 07-Statements Assessment Test.ipynb
+- [x] 07-Statements Assessment Test.ipynb
 
 - [ ] 09-Guessing Game Challenge.ipynb
 
