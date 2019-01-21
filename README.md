@@ -10,7 +10,7 @@ The assessments are in the order they're presented in with the same filenames as
 
 - [x] 07-Statements Assessment Test.ipynb
 
-- [ ] 09-Guessing Game Challenge.ipynb
+- [x] 09-Guessing Game Challenge.ipynb
 
 - [ ] 03-Function Practice Exercises.ipynb
 
