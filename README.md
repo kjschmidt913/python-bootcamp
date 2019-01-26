@@ -12,7 +12,7 @@ The assessments are in the order they're presented in with the same filenames as
 
 - [x] 09-Guessing Game Challenge.ipynb
 
-- [ ] 03-Function Practice Exercises.ipynb
+- [x] 03-Function Practice Exercises.ipynb
 
 - [ ] 08-Functions and Methods Homework.ipynb
 
