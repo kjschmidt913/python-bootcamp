@@ -14,7 +14,7 @@ The assessments are in the order they're presented in with the same filenames as
 
 - [x] 03-Function Practice Exercises.ipynb
 
-- [ ] 08-Functions and Methods Homework.ipynb
+- [x] 08-Functions and Methods Homework.ipynb
 
 - [ ] [Milestone Project 1](https://github.com/kjschmidt913/python-bootcamp) //will link to the repository once made
 
