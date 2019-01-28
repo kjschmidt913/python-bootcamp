@@ -16,7 +16,7 @@ The assessments are in the order they're presented in with the same filenames as
 
 - [x] 08-Functions and Methods Homework.ipynb
 
-- [ ] [Milestone Project 1](https://github.com/kjschmidt913/milestone-one)
+- [x] [Milestone Project 1](https://github.com/kjschmidt913/milestone-one)
 
 - [ ] 02-Object Oriented Programming Homework.ipynb
 
