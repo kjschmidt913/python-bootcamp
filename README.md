@@ -20,7 +20,7 @@ The assessments are in the order they're presented in with the same filenames as
 
 - [x] 02-Object Oriented Programming Homework.ipynb
 
-- [ ] 04-OOP Challenge.ipynb
+- [x] 04-OOP Challenge.ipynb
 
 - [ ] 02-Errors and Exceptions Homework.ipynb
 
