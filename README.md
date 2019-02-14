@@ -22,7 +22,7 @@ The assessments are in the order they're presented in with the same filenames as
 
 - [x] 04-OOP Challenge.ipynb
 
-- [ ] 02-Errors and Exceptions Homework.ipynb
+- [x] 02-Errors and Exceptions Homework.ipynb
 
 - [ ] [Milestone Project 2](https://github.com/kjschmidt913/python-bootcamp) //will link to the repository once made
 
