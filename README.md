@@ -26,7 +26,7 @@ The assessments are in the order they're presented in with the same filenames as
 
 - [x] [Milestone Project 2](https://github.com/kjschmidt913/milestone-two)
 
-- [ ] 08-Built-in Functions Assessment Test.ipynb
+- [x] 08-Built-in Functions Assessment Test.ipynb
 
 - [ ] 02-Iterators and Generators Homework.ipynb
 
