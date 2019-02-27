@@ -4,7 +4,7 @@ Challenges and assessments for [Udemy's Complete Python Bootcamp: Go from zero t
 I'll be adding to this as I complete the bootcamp. Larger projects will have their own repositories, which I will link to below.
 
 ## Assessment List
-The assessments are in the order they're presented in with the same filenames as in the course.
+The assessments are in the order in which they're presented with the same filenames as in the course.
 
 - [x] 09-Objects and Data Structures Assessment Test.ipynb
 
