@@ -28,6 +28,6 @@ The assessments are in the order they're presented in with the same filenames as
 
 - [x] 08-Built-in Functions Assessment Test.ipynb
 
-- [ ] 02-Iterators and Generators Homework.ipynb
+- [x] 02-Iterators and Generators Homework.ipynb
 
 - [ ] [Final Capstone Project](https://github.com/kjschmidt913/python-bootcamp) //will link to the repository once made  
