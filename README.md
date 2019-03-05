@@ -30,4 +30,4 @@ The assessments are in the order in which they're presented with the same filena
 
 - [x] 02-Iterators and Generators Homework.ipynb
 
-- [ ] Final Capstone Project //will link to the repository once made  
+- [ ] [Final Capstone Project](https://github.com/kjschmidt913/python-capstone)
